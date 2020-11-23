@@ -1,0 +1,23 @@
+.btn-flat {
+  color: white;
+  padding: 8px 32px;
+  border-radius: 4px;
+  background: #290088;
+  transition: background 0.3s ease;
+}
+
+.btn-flat:hover {
+  background: #29008875;
+  color: white;
+}
+
+
+#question {
+  width: 300px;
+  height: 30px;
+}
+
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
